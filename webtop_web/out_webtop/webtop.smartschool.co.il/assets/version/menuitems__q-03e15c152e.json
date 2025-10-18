@@ -1,0 +1,78 @@
+[
+  {
+    "id": 87,
+    "showOnWeb": false,
+    "showOnMobile": true,
+	"showAllToInstitutionCode":"999999,555555,333333,3333333"
+  },
+  {
+    "id": 261,
+    "showOnWeb": false,
+    "showOnMobile": true,
+	"showAllToInstitutionCode":"999999,555555,333333,3333333"
+  }
+  ,
+  {
+    "id": 70,
+    "showOnWeb": false,
+    "showOnMobile": true,
+	"showAllToInstitutionCode":"999999,555555,333333,3333333"
+  },
+  {
+    "id": 300,
+    "showOnWeb": false,
+    "showOnMobile": true,
+	"showAllToInstitutionCode":"999999,555555,333333,3333333"
+  },
+  {
+    "id": 365,
+    "showOnWeb": false,
+    "showOnMobile": true,
+	"showAllToInstitutionCode":"999999,555555,333333,3333333"
+  },
+  {
+    "id": 60,
+    "showOnWeb": false,
+    "showOnMobile": true,
+	"showAllToInstitutionCode":"999999,555555,333333,3333333"
+  },
+  {
+    "id": 361,
+    "showOnWeb": false,
+    "showOnMobile": true,
+	"showAllToInstitutionCode":"999999,555555,333333,3333333"
+  } ,
+  {
+    "id": 265,
+    "showOnWeb": false,
+    "showOnMobile": true,
+	"showAllToInstitutionCode":"999999,555555,333333,3333333"
+  },
+  {
+    "id": 297,
+    "showOnWeb": false,
+    "showOnMobile": false
+  },
+  {
+    "id": 262,
+    "showOnWeb": false,
+    "showOnMobile": false
+  },
+  {
+    "id": 88,
+    "showOnWeb": false,
+    "showOnMobile": false
+  }  ,
+  {
+    "id": 89,
+    "showOnWeb": false,
+    "showOnMobile": false
+  },
+  {
+    "id": 400,
+    "showOnWeb": false,
+    "showOnMobile": false,
+	"showAllToInstitutionCode":"999999,555555,333333,3333333"
+  }
+  
+]
